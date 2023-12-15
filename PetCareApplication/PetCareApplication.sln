@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCareApplication", "PetCareApplication\PetCareApplication.csproj", "{2D16D570-4B44-4CEE-85DC-25DFBAFDF9FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCareApplication", "PetCareApplication\PetCareApplication.csproj", "{E3F16B62-4950-41CD-B4FF-8971E9089D69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2D16D570-4B44-4CEE-85DC-25DFBAFDF9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D16D570-4B44-4CEE-85DC-25DFBAFDF9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D16D570-4B44-4CEE-85DC-25DFBAFDF9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D16D570-4B44-4CEE-85DC-25DFBAFDF9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F16B62-4950-41CD-B4FF-8971E9089D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F16B62-4950-41CD-B4FF-8971E9089D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F16B62-4950-41CD-B4FF-8971E9089D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F16B62-4950-41CD-B4FF-8971E9089D69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E00F2505-C3D3-43B1-A580-DEEF62DAD39E}
+		SolutionGuid = {D6551D18-BAAC-43F1-8BCA-795279876DD6}
 	EndGlobalSection
 EndGlobal

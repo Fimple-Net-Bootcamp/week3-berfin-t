@@ -17,9 +17,7 @@ using PetCareApplication.Data;
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<User>()
-            .HasMany(u => u.Pets)
-            .WithOne(p => p.User)
-            .HasForeignKey(p => p.UserId);
+            .HasMany(u => u.Pet);
 
         
 
